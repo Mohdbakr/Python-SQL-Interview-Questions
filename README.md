@@ -15,8 +15,8 @@ This repository contains a curated set of Python and SQL interview questions for
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Mohdbakr/py_sql_interview_questions.git
-cd py_sql_interview_questions
+git clone https://github.com/Mohdbakr/Python-SQL-Interview-Questions.git
+cd Python-SQL-Interview-Questions
 ```
 
 ## 2. Install uv
