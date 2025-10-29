@@ -74,7 +74,12 @@ Use uv sync to install all declared dependencies:
 uv sync
 ```
 
-## 6. Take the test
+## 6. Data File for Pandas Exercise
+Download the dataset used in the Pandas exercises from the following link:
+
+👉 [Download Data File](https://1drv.ms/f/c/4a890f10c678a7c5/ErV6YYPfAiJMhhjI3nwYS00B1OCw6exjvB9iX24254GhCw?e=zyhvVp) then save it in the `data/` folder before running the exercises.
+
+## 7. Take the test
 Open the Jupyter Notebook in Jupyter Lab or Notebook:
 
 ```bash
